@@ -54,6 +54,7 @@ body {
     letter-spacing: 5px;
     text-transform: uppercase;
 }
+
 .desc-name {
     color: var(--Gunmetal);
     font-family: var(--fraunces);
@@ -84,17 +85,17 @@ body {
     line-height: 32px;
 }
 
-.prev {
+.prev-cost {
     color: var(--Aurometal-Saurus);
     font-family: var(--montserrat);
     font-size: 13px;
     font-weight: 500;
-    line-height: 23px; 
+    line-height: 23px;
     text-decoration-line: strikethrough;
 }
 
 .sale-btn {
-    
+
     width: 236px;
     padding: 15px;
     border-radius: 8px;
@@ -105,6 +106,8 @@ body {
     font-weight: 700;
     text-align: center;
 }
-.logo{
-    padding: 0px 11.61px;
+
+.logo {
+    width: 14.385px;
+    height: 16px;
 }
